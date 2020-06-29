@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -o "C:/Users/HP/Desktop/VHDL Tutorial/SimpleProcessorProject/first_b_first_b_sch_tb_isim_beh.exe" -prj "C:/Users/HP/Desktop/VHDL Tutorial/SimpleProcessorProject/first_b_first_b_sch_tb_beh.prj" "work.first_b_first_b_sch_tb" 
